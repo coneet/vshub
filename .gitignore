@@ -1,3 +1,4 @@
 /storage/*
+/system/storage/*
 /config.php
 /admin/config.php
